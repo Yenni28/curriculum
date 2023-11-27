@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(#636162, #b1afaf);
+    height: 122vh;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.encabezado {
+    margin: -1px;
+    font-size: 15px;
+    background-color: #4d4d4d;
+    color: #fbb03b;
+    text-align: left;
+    padding-left: 30px;
+    padding: 10px;
+}
+
+.principal {
+    background-color: #eceb9f;
+    height: auto;
+    width: 650px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 62%;
+}
+
+.izquierda {
+    background-color: 
+    rgb(106, 202, 202);
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+
+.derecha {
+    width: 450px;
+    float: right;
+}
+
+.imagen-perfil {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border: 10px solid #fbb03b;
+    box-shadow: 6px 7px 9px 5px #fbb03b73;
+}
+
+.imagen-perfil img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.caja-1 {
+    position: relative;
+}
+
+.titulo {
+    background-color: #4d4d4d;
+    padding: 10px;
+    color: #fbb03b;
+    text-align: left;
+    padding-left: 20px;
+    margin-right: -1px;
+}
+
+.p1 {
+    padding: 9px 10px;
+    font-size: 11px;
+}
+
+.material-iconos {
+    font-size: 16px !important;
+    padding-right: 10px !important;
+    vertical-align: sub;
+}
+
+.contenedor-habilidades {
+    width: 90%;
+    background-color: #4d4d4d;
+    margin: 0px 10px;
+}
+
+.habilidad {
+    text-align: right;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: white;
+    width: 90%;
+    background-color: white;
+}
+
+.material-iconos2 {
+    font-size: 16px !important;
+    padding-right: 10px !important;
+    vertical-align: sub;
+}
+
+.perfil {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px !important;
+    padding-right: 10px !important;
+    vertical-align: sub;
+    padding: 10px 0px 10px 55px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.perfil h1 {
+    margin-bottom: 10px;
+    vertical-align: bottom;
+    color: #4d4d4d;
+}
+
+.p2 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+h2 {
+    font-size: 16px;
+    margin-bottom: 15px;
+
+}
+
